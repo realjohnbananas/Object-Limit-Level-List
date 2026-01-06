@@ -1,0 +1,11 @@
+{
+    "id": <id>,
+    "name": "<level_title>",
+    "author": "<author>",
+    "creators": ["<creator>" +, "<creator>"],
+    "verifier": "<verifier>",
+    "verification": "<url>",
+    "percentToQualify": "100",
+    "records": [
+    ]
+}
