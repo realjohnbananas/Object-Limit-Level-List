@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/n563Jf_r69Q",
     "percentToQualify": "100",
     "records": [
+        {
+            "user": "FoldedZero",
+            "link": "https://www.youtube.com/watch?v=Oq9lHs8N5VY",
+            "hz": "180",
+            "percent": 100
+        }
     ]
 }
