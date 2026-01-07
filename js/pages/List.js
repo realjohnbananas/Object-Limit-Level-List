@@ -22,6 +22,12 @@ export default {
         </main>
         <main v-else class="page-list">
             <div class="list-container">
+            <main v-else class="page-list">
+            <div class="list-container">
+                <div style="padding: 20px; text-align: center;">
+                    <h1 style="font-size: 2.5rem; text-transform: uppercase;">The List</h1>
+                </div>
+                
                 <table class="list" v-if="list">
                     <tr v-for="([level, err], i) in list">
                         <td class="rank">
