@@ -113,6 +113,9 @@ export default {
                         The max cps for your level must not reach over 10 cps when doing the lowest cps click pattern
                     </p>
                     <p>
+                        Levels cannot have over 10 objects
+                    </p>
+                    <p>
                          No frame locked consistency levels
                     </p>
                     <p>
