@@ -104,13 +104,16 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        You can copy one level on the list
-                    </p>
-                    <p>
                         Achieved the record without using hacks
                     </p>
                     <p>
                         Achieved the record on the level that is listed on the site
+                    </p>
+                    <p>
+                        The max cps for your level must not reach over 10 cps when doing the lowest cps click pattern
+                    </p>
+                    <p>
+                         No frame locked consistency levels
                     </p>
                     <p>
                         Have either hand cam or clicks/taps in the video. Edited audio only does not count
@@ -125,10 +128,7 @@ export default {
                         Do not use secret routes or bug routes
                     </p>
                     <p>
-                        Only a record of the unmodified level qualifies
-                    </p>
-                    <p>
-                        On invisible levels do not use show hitbox on death
+                        Only a record of the unmodified level qualifies             
                     </p>
                     <p>
                         Once a level falls onto the Legacy List, we dont accept records after it falls off
